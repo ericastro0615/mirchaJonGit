@@ -1,0 +1,68 @@
+commit e22dc8c63c75da7d3fbba406a9cc2f5cf59f6c4f
+Merge: a17ddcc 736f888
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Sat Dec 24 12:49:31 2022 -0300
+
+    arreglando el commit y problemas en merging
+
+commit a17ddcc17e6da800c6111a083ca5253256345c71
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Sat Dec 24 12:28:17 2022 -0300
+
+    editando el ultimo commit. Agregando fechas de estaciones
+
+commit 736f88851bb88c5c2592e4bc35f4f973baa828f0
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Sat Dec 24 12:28:17 2022 -0300
+
+    haciendo pruebas con commit erroneos
+
+commit 479721069975191b4f23c88d9e9b6055aee88c96
+Merge: 7f86843 725377f
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 22:18:29 2022 -0300
+
+    resolviendo conflictos en merging manual
+
+commit 725377f6a9c9e36cfc578327757fe6d7565837bf
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 21:58:03 2022 -0300
+
+    Agregando index.js al index html
+
+commit 7f868434b335006d1efc48c94a90606873884a39
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 21:48:50 2022 -0300
+
+    nueva prueba, modificando parrafo html
+
+commit cc14b48e7e874d2c02b64b4f47d385714a289f6c
+Merge: 5cb7ae8 c22eadc
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 20:53:09 2022 -0300
+
+    Merge branch 'js'
+
+commit c22eadccdfeb3fcc215250f0f9e21a7c1560191a
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 19:57:01 2022 -0300
+
+    creadno index.js
+
+commit 5cb7ae8dc8038885fe61e565c205bc3f7bc871b4
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 18:57:32 2022 -0300
+
+    iniciando archivo html
+
+commit 475b17f07f70c185a91f83b07eec742ed8d91faf
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 18:44:03 2022 -0300
+
+    creadndo index.html
+
+commit 3c6e04fdcc7a7d0901f841ed60d5d3e95cfa7dc9
+Author: Erica castro <ericastro0615@gmail.com>
+Date:   Fri Dec 23 17:30:48 2022 -0300
+
+    mensaje descriptivo del cambio
